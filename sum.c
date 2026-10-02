@@ -6,3 +6,4 @@ c=a+b;
 printf("sum =%d",c);
 return 0;
 }
+
